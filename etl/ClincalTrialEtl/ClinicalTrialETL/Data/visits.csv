@@ -1,0 +1,7 @@
+﻿PatientCode,VisitNumber,VisitDate,Completed
+P0001,1,2025-01-22,true
+P0001,2,2025-02-22,true
+P0002,1,2025-01-25,true
+P0003,1,2025-02-12,true
+P0004,1,2025-03-01,false
+P0005,1,2025-03-18,true

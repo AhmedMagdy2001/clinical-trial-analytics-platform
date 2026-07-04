@@ -1,0 +1,6 @@
+PatientCode,StudyCode,SiteName,Gender,BirthDate,EnrollmentDate,Status
+P0001,CTA-001,Cairo University Hospital,M,1990-05-12,2025-01-15,Enrolled
+P0002,CTA-001,Cairo University Hospital,F,1988-09-20,2025-01-18,Completed
+P0003,CTA-002,Mayo Clinic,M,1995-02-10,2025-02-05,Enrolled
+P0004,CTA-003,Cleveland Clinic Abu Dhabi,F,1992-07-08,2025-02-20,Withdrawn
+P0005,CTA-005,Johns Hopkins Hospital,M,1986-11-30,2025-03-10,Enrolled
