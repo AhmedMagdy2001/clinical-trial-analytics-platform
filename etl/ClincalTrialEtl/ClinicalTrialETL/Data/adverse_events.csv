@@ -1,0 +1,6 @@
+﻿PatientCode,Severity,Category,EventDate,Resolved
+P0001,Low,Headache,2025-01-25,true
+P0002,Medium,Fever,2025-02-02,true
+P0003,High,Chest Pain,2025-02-18,false
+P0004,Low,Nausea,2025-03-05,true
+P0005,Critical,Allergic Reaction,2025-03-20,false

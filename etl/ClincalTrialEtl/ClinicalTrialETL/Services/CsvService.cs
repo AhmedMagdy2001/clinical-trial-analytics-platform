@@ -21,4 +21,12 @@ public class CsvService
 
         return csv.GetRecords<VisitRecord>().ToList();
     }
+
+    public List<AdverseEventRecord> ReadAdverseEvents(string filePath)
+    {
+        using var reader = new StreamReader(filePath);
+        using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
+
+        return csv.GetRecords<AdverseEventRecord>().ToList();
+    }
 }
